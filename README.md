@@ -1,1 +1,1 @@
-# customer_churn_prediction_using_spark
+# customer churn prediction using spark
