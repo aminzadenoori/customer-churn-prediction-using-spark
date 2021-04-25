@@ -24,10 +24,10 @@ Of the tested models `Gradient Boosting` achieved the best prediction results:
 - accuracy: 0.9642
 
 Of the tested models `Random Forest` achieved the best prediction results:
-- precision: 0.96,
-- recall: 0.96, 
-- f1:  0.963, 
-- accuracy: 0.9642
+- precision: 0.9085907940855598,
+- recall: 0.8973561430793157, 
+- f1:  0.8771270887972183, 
+- accuracy: 0.8973561430793157
 
 ## Dependencies
 - Python 3
