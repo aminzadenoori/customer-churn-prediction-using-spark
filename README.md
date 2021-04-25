@@ -4,7 +4,7 @@ predict customer churn by the help of machine learning models is a prevelant pro
 ## Data and project
 This project is the capstone project of Udacity's Data Scientist Nanodegree. The users and log data of a fictitious music streaming service called "Sparkify" serve as a database. The dataset contains 286,500 rows and 18 features. 
 
-Corresponding blog post:
+Corresponding blog post: https://amin-zadenoori.medium.com/customer-churn-prediction-using-spark-and-mlib-47fac0dc7e38
 
 ## Machine Learning Pipeline
 In this following classification algorithm is trained and evaluated in order to predict customer churn:Random Forest, Gradient Boosting . For this a Machine Learning pipeline is set up, which contains the steps below:
