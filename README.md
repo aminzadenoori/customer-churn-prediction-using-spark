@@ -22,6 +22,7 @@ Of the tested models Gradient Boosting achieved the best prediction results:
 - recall: 0.96, 
 - f1:  0.963, 
 - accuracy: 0.9642
+
 Of the tested models Random Forest achieved the best prediction results:
 - precision: 0.96,
 - recall: 0.96, 
