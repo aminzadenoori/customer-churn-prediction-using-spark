@@ -17,13 +17,13 @@ In this following classification algorithm is trained and evaluated in order to 
 - Evaluation of Prediction Performance (Metric: F1 Score)
 
 ## Model Performance
-Of the tested models Gradient Boosting achieved the best prediction results:
+Of the tested models `Gradient Boosting` achieved the best prediction results:
 - precision: 0.96,
 - recall: 0.96, 
 - f1:  0.963, 
 - accuracy: 0.9642
 
-Of the tested models Random Forest achieved the best prediction results:
+Of the tested models `Random Forest` achieved the best prediction results:
 - precision: 0.96,
 - recall: 0.96, 
 - f1:  0.963, 
