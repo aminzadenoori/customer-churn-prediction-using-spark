@@ -18,10 +18,15 @@ In this following classification algorithm is trained and evaluated in order to 
 
 ## Model Performance
 Of the tested models Gradient Boosting achieved the best prediction results:
-- precision: 0.9815,
-- recall: 0.9813, 
-- f1: 0.9809, 
-- accuracy: 0.9813
+- precision: 0.96,
+- recall: 0.96, 
+- f1:  0.963, 
+- accuracy: 0.9642
+Of the tested models Random Forest achieved the best prediction results:
+- precision: 0.96,
+- recall: 0.96, 
+- f1:  0.963, 
+- accuracy: 0.9642
 
 ## Dependencies
 - Python 3
