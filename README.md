@@ -17,7 +17,7 @@ In this following classification algorithm is trained and evaluated in order to 
 - Evaluation of Prediction Performance (Metric: F1 Score)
 
 ## Model Performance
-Of the tested models `Gradient Boosting` achieved results:
+among the tested models `Base Gradient Boosting` achieved best results :
 - precision: 0.97,
 - recall: 0.97, 
 - f1:  0.975, 
